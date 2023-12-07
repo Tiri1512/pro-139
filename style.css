@@ -1,0 +1,59 @@
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+    
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid rgb(60, 172, 172);
+}
+.big_image
+{
+    width: 100%;
+}
+#start, #status
+{
+    font-size: 22px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: darkviolet;
+    bottom: 0;
+    width: 100%;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 3px solid crimson;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px navajowhite;
+    
+}
+h4
+{
+    background-color: crimson;
+    line-height: 3;
+    margin: 0px;
+}
+.model-dialog
+{
+    width: 90%;
+}
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
